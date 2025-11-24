@@ -39,35 +39,3 @@
 
   <footer>
       </footer>
-</body>
-</html>body {
-  font-family: Arial, sans-serif;
-  background: #f2f2f2;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-}
-
-header {
-  background: #222;
-  color: white;
-  padding: 30px;
-}
-
-h2 {
-  margin-top: 40px;
-  color: #222;
-}
-
-.videos .video-item {
-  margin: 30px auto;
-  max-width: 600px;
-}
-
-footer {
-  background: #222;
-  color: white;
-  padding: 20px;
-  margin-top: 40px;
-}
-
